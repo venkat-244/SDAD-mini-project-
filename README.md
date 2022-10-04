@@ -6,9 +6,9 @@ Social distancing alert device (SDAD) is a hardware-based project.  In the prese
 
 
 Working of SDAD:
-•	In the beginning, we give the power supply to the device.
-•	Both the ultra-sonic sensors detect the distances D1 and D2 between the reference person and the ones behind him/her and to their right /left according to the arrangement of the device.
-•	Once the distances are detected, they are then compared to the threshold distance 6 feet (180 cm).
-•	When the threshold is not satisfied ,automatically the speaker gives an alert to maintain social distancing
-•	By this alert, the people in the surroundings also get alerted and reposition themselves accordingly.
-•	Hence, Social distancing can be maintained at the public queues
+	In the beginning, we give the power supply to the device.
+	Both the ultra-sonic sensors detect the distances D1 and D2 between the reference person and the ones behind him/her and to their right /left according to the arrangement of the device.
+	Once the distances are detected, they are then compared to the threshold distance 6 feet (180 cm).
+	When the threshold is not satisfied ,automatically the speaker gives an alert to maintain social distancing
+	By this alert, the people in the surroundings also get alerted and reposition themselves accordingly.
+	Hence, Social distancing can be maintained at the public queues
